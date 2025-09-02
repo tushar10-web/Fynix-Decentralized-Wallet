@@ -1,2 +1,24 @@
-# Fynix-Decentralized-Wallet
-Fynix is a secure and user-friendly decentralized cryptocurrency wallet for managing Ethereum and ERC-20 tokens. It allows users to create/import wallets using mnemonic phrases, view real-time balances, send tokens, and track transaction history — all in a fully client-side application ensuring privacy and control.
+# Fynix Decentralized Wallet
+
+Fynix is a decentralized cryptocurrency wallet application focused on security, simplicity, and user empowerment. Built as a client-side React app, it lets users create or import Ethereum wallets, view ETH and ERC-20 token balances, send tokens, and monitor transaction history directly from the browser.
+
+## Features
+
+- Wallet creation and import using mnemonic phrases
+- Real-time Ethereum and ERC-20 token balance display
+- Send tokens securely with smart contract interactions
+- Fetch and display recent transaction history via Etherscan API
+- Contact form integrated with EmailJS for direct communication
+- Fully client-side for enhanced privacy — no backend required
+
+## Live Demo
+
+Check out the live demo of the project here: [Your Live Link Here](https://your-live-link.com)
+
+## Under Construction
+
+This project is actively under development. Features are continually being added and refined. Contributions and feedback are welcome!
+
+---
+
+Stay tuned for updates as Fynix evolves into a powerful tool for decentralized finance users.
