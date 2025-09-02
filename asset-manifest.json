@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.b8d46170.js",
-    "static/js/453.e01cf099.chunk.js": "/static/js/453.e01cf099.chunk.js",
-    "static/media/fynix.png": "/static/media/fynix.c123081a932e3fdd4fb9.png",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.b8d46170.js.map": "/static/js/main.b8d46170.js.map",
-    "453.e01cf099.chunk.js.map": "/static/js/453.e01cf099.chunk.js.map"
+    "main.css": "/Fynix-Decentralized-Wallet/static/css/main.e6c13ad2.css",
+    "main.js": "/Fynix-Decentralized-Wallet/static/js/main.a71e1598.js",
+    "static/js/453.e01cf099.chunk.js": "/Fynix-Decentralized-Wallet/static/js/453.e01cf099.chunk.js",
+    "static/media/fynix.png": "/Fynix-Decentralized-Wallet/static/media/fynix.c123081a932e3fdd4fb9.png",
+    "index.html": "/Fynix-Decentralized-Wallet/index.html",
+    "main.e6c13ad2.css.map": "/Fynix-Decentralized-Wallet/static/css/main.e6c13ad2.css.map",
+    "main.a71e1598.js.map": "/Fynix-Decentralized-Wallet/static/js/main.a71e1598.js.map",
+    "453.e01cf099.chunk.js.map": "/Fynix-Decentralized-Wallet/static/js/453.e01cf099.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b8d46170.js"
+    "static/js/main.a71e1598.js"
   ]
 }
