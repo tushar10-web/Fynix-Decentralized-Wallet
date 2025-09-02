@@ -13,7 +13,7 @@ Fynix is a decentralized cryptocurrency wallet application focused on security, 
 
 ## Live Demo
 
-Check out the live demo of the project here: [Your Live Link Here]((https://tushar10-web.github.io/Fynix-Decentralized-Wallet/))
+Check out the live demo of the project here: [Your Live Link Here](https://tushar10-web.github.io/Fynix-Decentralized-Wallet/)
 
 ## Under Construction
 
